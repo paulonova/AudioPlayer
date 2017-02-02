@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_c5dcf24daa1f522f87e7c9bfd3e13597a6648393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_0a6ad4a8d563ea000098afd01536f688e6619e8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ff67588232ed736e6762dc245d8d180fd4a8edde">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_92ddbeaadacb789e1ecc7c1943a3dd6a23e0c98b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="33f6895c37d135ceece1d01149ecad42f9e2a67a">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7b8bb03a562035fdb150d20ffb392b0dd7568830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_1a92bc33473a74f2a121fe7e65b1cec90d6bdc40\classes.dex" />
+    </item>
+
+</items>

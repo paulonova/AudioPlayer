@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1595427037725625"
+    token="-2026730999609666457"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="276" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="109" />
+    <task
+        name="verifier"
+        duration="38" />
+
+    <artifact
+        location="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1595427037725625"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\DESIGN_PATTERN_ANDROID\Ch05\AudioPlayer\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

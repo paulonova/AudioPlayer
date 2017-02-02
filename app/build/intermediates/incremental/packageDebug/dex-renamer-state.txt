@@ -1,0 +1,7 @@
+#Thu Feb 02 09:33:44 CET 2017
+base.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\AudioPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7b8bb03a562035fdb150d20ffb392b0dd7568830
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\AudioPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_92ddbeaadacb789e1ecc7c1943a3dd6a23e0c98b\\classes.dex
+base.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\AudioPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_92ddbeaadacb789e1ecc7c1943a3dd6a23e0c98b
+file.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\AudioPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7b8bb03a562035fdb150d20ffb392b0dd7568830\\classes.dex
